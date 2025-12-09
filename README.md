@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions  -  ks231f
+# Hello GitHub Actions - ks231f
 
 _Create and run a GitHub Actions workflow._
 
